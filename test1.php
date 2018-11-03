@@ -1,6 +1,6 @@
 <?php
 	echo 'what';
-	$dir    = glob('/dir/');
+	$dir = glob('/dir/');
 	echo '<pre>';
 	print_r($dir);
 	
